@@ -23,7 +23,7 @@ class MyMergeSort {
      m=(l+h)/2;
      mergeSort(arr,l,m);
      mergeSort(arr,m+1,h);
-     merge(arr,l,m,h)   
+     merge(arr,l,m,h);
      
     
     
@@ -86,10 +86,5 @@ class MyMergeSort {
          
          
     }
-    {
-        
-    }
-}
-public class MergeSort {
-    
-}
+ 
+
